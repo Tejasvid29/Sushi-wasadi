@@ -1,0 +1,54 @@
+/* Navgigation Bar */
+.container-fluid{
+   padding: 1% 5%;
+   margin: 0;
+}
+hr{
+    margin: 0;
+}
+.navbar-brand{
+    font-size: 1.7rem;
+    font-family: 'Ultra', serif;
+    padding: 0;
+    color: #88b06a;
+}
+.navbar-brand:hover{
+    color: #D8D2CB;
+}
+.nav-link{
+    color: #88b06a;
+    margin: 0 20px;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: grey;
+}
+.icon{
+    margin-right: 10px;
+}
+/* Middle-section */
+#middle-section{
+    padding: 4% 10%;
+    text-align: center;
+}
+.big-heading{
+    font-size: 3.2rem;
+    font-family: 'Ultra', serif;
+    padding: 0;
+    color: #88b06a;
+    line-height: 1.5;
+}
+p{
+    line-height: 0.5;
+    font-family: 'Slabo 13px', serif;
+    color: #a4a4a4;
+}
+.contact-btn{
+    font-family: 'Slabo 13px', serif;
+    font-size: 1.3rem;
+    color: white;
+    background-color: #88b06a;
+    padding: 20px;
+    width: 170px;
+    margin-top: 20px;
+}
